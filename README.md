@@ -2,7 +2,7 @@
 Started with my 100 days of coding challenge with C Programming language.
 
 Programs
-1. Write a program to identify if the character is a vowel or consonant. [(Code)]
+1. Write a program to identify if the character is a vowel or consonant. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day01.py)
 2. Write a program to identify if the character is an alphabet or not. 
 3. Write a program to find ASCII values of a character. 
 4. Write a program to find Number of digits in an integer. 
