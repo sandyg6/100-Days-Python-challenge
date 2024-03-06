@@ -1,5 +1,5 @@
 # 100-Days-Python-coding
-Started with my 100 days of coding challenge with C Programming language.
+Started with my 100 days of coding challenge with Python Programming language.
 
 Programs
 1. Write a program to identify if the character is a vowel or consonant. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day01.py)
