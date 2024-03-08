@@ -5,7 +5,7 @@ Programs
 1. Write a program to identify if the character is a vowel or consonant. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day01.py)
 2. Write a program to identify if the character is an alphabet or not. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day02.py)
 3. Write a program to find ASCII values of a character. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day03.py)
-4. Write a program to find Number of digits in an integer. 
+4. Write a program to find Number of digits in an integer. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day04.py)
 5. Write a program to find Factorial of a number. 
 6. Write a program to find Fibonacci series up to n.  
 7. Write a program to identify of the a number is positive or negative.
