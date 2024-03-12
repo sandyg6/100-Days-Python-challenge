@@ -9,7 +9,7 @@ Programs
 5. Write a program to find Factorial of a number. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day05.py)
 6. Write a program to find Fibonacci series up to n. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day06.py) 
 7. Write a program to identify of the a number is positive or negative. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day07.py)
-8. Write a program to identify if the number is even or odd. 
+8. Write a program to identify if the number is even or odd. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day08.py)
 9. Write a program to find Area of a circle. 
 10. Write a program to find Area of a rectangle. 
 11. Write a program to find Area of a Triangle. 
