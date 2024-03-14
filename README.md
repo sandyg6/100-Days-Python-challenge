@@ -11,7 +11,7 @@ Programs
 7. Write a program to identify of the a number is positive or negative. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day07.py)
 8. Write a program to identify if the number is even or odd. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day08.py)
 9. Write a program to find Area of a circle. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day09.py)
-10. Write a program to find Area of a rectangle. 
+10. Write a program to find Area of a rectangle. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day10.py)
 11. Write a program to find Area of a Triangle. 
 12. Write a program to find Sum of digits of a number. 
 13. Write a program to find Sum of N natural numbers. 
