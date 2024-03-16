@@ -13,7 +13,7 @@ Programs
 9. Write a program to find Area of a circle. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day09.py)
 10. Write a program to find Area of a rectangle. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day10.py)
 11. Write a program to find Area of a Triangle. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day11.py)
-12. Write a program to find Sum of digits of a number. 
+12. Write a program to find Sum of digits of a number. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day12.py)
 13. Write a program to find Sum of N natural numbers. 
 14. Write a program to find Sum of numbers in a given range. 
 15. Write a program to reverse a given number. 
