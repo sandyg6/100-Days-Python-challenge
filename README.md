@@ -17,7 +17,7 @@ Programs
 13. Write a program to find Sum of N natural numbers. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day13.py)
 14. Write a program to find Sum of numbers in a given range. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day14.py)
 15. Write a program to reverse a given number. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day15.py)
-16. Write a program to find LCM of two numbers. 
+16. Write a program to find LCM of two numbers. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day16.py)
 17. Write a program to identify if the number is Strong number or not. 
 18. Write a program to identify if the number is Perfect number or not. 
 19. Write a program to find Power of a number. 
