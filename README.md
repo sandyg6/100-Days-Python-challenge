@@ -22,7 +22,7 @@ Programs
 18. Write a program to identify if the number is Perfect number or not. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day18.py)
 19. Write a program to find Power of a number. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day19.py)
 20. Write a program to find the Factors of a number. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day20.py)
-21. Write a program to Add two fractions. 
+21. Write a program to Add two fractions. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day21.py)
 22. Write a program to find GCD of two numbers. 
 23. Write a program to identify if the number is Armstrong number or not. 
 24. Write a program to find Greatest of two numbers. 
