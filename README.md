@@ -25,7 +25,7 @@ Programs
 21. Write a program to Add two fractions. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day21.py)
 22. Write a program to find GCD of two numbers. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day22.py)
 23. Write a program to identify if the number is Armstrong number or not. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day23.py)
-24. Write a program to find Greatest of two numbers. 
+24. Write a program to find Greatest of two numbers. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day24.py)
 25. Write a program to find Greatest of three numbers. 
 26. Write a program to identify if the year is Leap year or not. 
 27. Write a program to identify if the number is Prime number or not. 
