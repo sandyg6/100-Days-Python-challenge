@@ -28,5 +28,5 @@ Programs
 24. Write a program to find Greatest of two numbers. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day24.py)
 25. Write a program to find Greatest of three numbers.[(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day25.py)
 26. Write a program to identify if the year is Leap year or not. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day26.py)
-27. Write a program to identify if the number is Prime number or not. [(code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day27.py)
-28. Write a program to identify if the number is Palindrome or not.
+27. Write a program to identify if the number is Prime number or not. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day27.py)
+28. Write a program to identify if the number is Palindrome or not. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day28.py)
