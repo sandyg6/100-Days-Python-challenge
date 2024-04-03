@@ -30,8 +30,8 @@ Programs
 26. Write a program to identify if the year is Leap year or not. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day26.py)
 27. Write a program to identify if the number is Prime number or not. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day27.py)
 28. Write a program to identify if the number is Palindrome or not. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day28.py)
-29. Write a program to print prime numbers in a given range
-30. Write a program to print Armstrong numbers between two intervals
+29. Write a program to print prime numbers in a given range. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day29.py)
+30. Write a program to print Armstrong numbers between two intervals. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day30.py)
 31. Write a program to express a number as a sum of two prime numbers?
 32. Write a program to Replace all 0’s with 1 in a given integer
 33. Write a program to print Pyramid pattern using stars
