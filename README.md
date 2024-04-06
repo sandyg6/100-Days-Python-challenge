@@ -34,7 +34,7 @@ Programs
 30. Write a program to print Armstrong numbers between two intervals. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day30.py)
 31. Write a program to express a number as a sum of two prime numbers? [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day31.py)
 32. Write a program to Replace all 0’s with 1 in a given integer. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day32.py)
-33. Write a program to print Pyramid pattern using stars
+33. Write a program to print Pyramid pattern using stars. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day33.py)
 34. Write a program to print Pyramid pattern using numbers
 35. Write a program to print Palindromic pyramid pattern printing
 36. Write a program to calculate Maximum number of handshakes
