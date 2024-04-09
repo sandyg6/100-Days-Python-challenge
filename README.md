@@ -37,7 +37,7 @@ Programs
 33. Write a program to print Pyramid pattern using stars. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day33.py)
 34. Write a program to print Pyramid pattern using numbers. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day34.py)
 35. Write a program to print Palindromic pyramid pattern printing. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day35.py)
-36. Write a program to calculate Maximum number of handshakes
+36. Write a program to calculate Maximum number of handshakes. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day36.py)
 37. Write a program to find the Quadrants in which coordinates lie
 38. Write a program to Convert digit/number to words
 39. Write a program to find Number of days in a given month of a given year
