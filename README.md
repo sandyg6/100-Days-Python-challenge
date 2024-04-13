@@ -41,7 +41,7 @@ Programs
 37. Write a program to find the Quadrants in which coordinates lie. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day37.py)
 38. Write a program to Convert digit/number to words. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day38.py)
 39. Write a program to find Number of days in a given month of a given year. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day39.py)
-40. Write a program to find Permutations in which n people can occupy r seats in a classroom.
+40. Write a program to find Permutations in which n people can occupy r seats in a classroom. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day40.py)
 41. Write a program for Binary to decimal conversion
 42. Write a program for Decimal to binary conversion
 43. Write a program for Binary to octal conversion
