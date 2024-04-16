@@ -44,7 +44,7 @@ Programs
 40. Write a program to find Permutations in which n people can occupy r seats in a classroom. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day40.py)
 41. Write a program for Binary to decimal conversion. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day41.py)
 42. Write a program for Decimal to binary conversion. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day42.py)
-43. Write a program for Binary to octal conversion
+43. Write a program for Binary to octal conversion. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day43.py)
 44. Write a program for Octal to binary conversion
 45. Write a program for Decimal to octal conversion
 46. Write a program for Octal to decimal conversion
