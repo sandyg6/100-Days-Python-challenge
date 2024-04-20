@@ -48,7 +48,7 @@ Programs
 44. Write a program for Octal to binary conversion. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day44.py)
 45. Write a program for Decimal to octal conversion. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day45.py)
 46. Write a program for Octal to decimal conversion. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day46.py)
-47. Write a program to find number of times digit 3 occurs in each and every number from 0 to n
+47. Write a program to find number of times digit 3 occurs in each and every number from 0 to n. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day47.py)
 48. Write a program to find number of integers which has exactly 9 divisors
 49. Write a program to find roots of a quadratic equation
 50. Write a program to print Solid and hollow rectangle star pattern
