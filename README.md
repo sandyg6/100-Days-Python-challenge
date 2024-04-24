@@ -52,7 +52,7 @@ Programs
 48. Write a program to find number of integers which has exactly 9 divisors. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day48.py)
 49. Write a program to find roots of a quadratic equation.[(code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day49.py).
 50. Write a program to print Solid and hollow rectangle star pattern [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day50.py)
-51. Write a program to print Diamond pattern printing using stars
+51. Write a program to print Diamond pattern printing using stars. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day51.py)
 52. Write a program to print Diamond pattern printing using numbers
 53. Write a program to print Floyd’s triangle
 54. Write a program to print Pascal triangle
