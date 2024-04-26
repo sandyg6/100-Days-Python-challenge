@@ -54,5 +54,5 @@ Programs
 50. Write a program to print Solid and hollow rectangle star pattern [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day50.py)
 51. Write a program to print Diamond pattern printing using stars. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day51.py)
 52. Write a program to print Diamond pattern printing using numbers. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day52.py)
-53. Write a program to print Floyd’s triangle
+53. Write a program to print Floyd’s triangle. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day53.py)
 54. Write a program to print Pascal triangle
