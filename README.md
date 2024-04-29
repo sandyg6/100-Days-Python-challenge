@@ -56,3 +56,4 @@ Programs
 52. Write a program to print Diamond pattern printing using numbers. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day52.py)
 53. Write a program to print Floyd’s triangle. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day53.py)
 54. Write a program to print Pascal triangle. [(code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day54.py)
+55. Write a program to check Least Significant Bit (LSB) of a number is set or not. [(code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day55.py)
