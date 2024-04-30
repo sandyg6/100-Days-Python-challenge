@@ -57,4 +57,4 @@ Programs
 53. Write a program to print Floyd’s triangle. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day53.py)
 54. Write a program to print Pascal triangle. [(code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day54.py)
 55. Write a program to check Least Significant Bit (LSB) of a number is set or not. [(code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day55.py)
-56. Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5, between 2000 and 3200 (both included). The numbers obtained should be printed in a comma-separated sequence on a single line. [(Code)]
+56. Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5, between 2000 and 3200 (both included). The numbers obtained should be printed in a comma-separated sequence on a single line. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day56.py)
