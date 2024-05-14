@@ -71,3 +71,4 @@ Programs
 67. Write a program, which will find all such numbers between 1000 and 3000 (both included) such that each digit of the number is an even number. The numbers obtained should be printed in a comma-separated sequence on a single line. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day67.py)
 68. Write a program that accepts a sentence and calculate the number of letters and digits. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day68.py)
 69.  Write a program that accepts a sentence and calculate the number of upper case letters and lower case letters. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day69.py)
+70.  Write a program that computes the value of a+aa+aaa+aaaa with a given digit as the value of a. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day70.py)
