@@ -72,3 +72,4 @@ Programs
 68. Write a program that accepts a sentence and calculate the number of letters and digits. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day68.py)
 69.  Write a program that accepts a sentence and calculate the number of upper case letters and lower case letters. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day69.py)
 70.  Write a program that computes the value of a+aa+aaa+aaaa with a given digit as the value of a. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day70.py)
+71.  Write a python program to interchange first and last elements in a list. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day71.py) 
