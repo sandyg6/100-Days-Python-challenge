@@ -74,3 +74,5 @@ Programs
 70.  Write a program that computes the value of a+aa+aaa+aaaa with a given digit as the value of a. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day70.py)
 71.  Write a python program to interchange first and last elements in a list. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day71.py)
 72.  Use a list comprehension to square each odd number in a list. The list is input by a sequence of comma-separated numbers. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day72.py)
+73.  Write a program that computes the net amount of a bank account based a transaction log from console input. The transaction log format is shown as following: D 100 W 200. D means deposit while W means withdrawal. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day73.py)
+74.  
