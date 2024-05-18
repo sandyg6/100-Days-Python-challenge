@@ -75,4 +75,4 @@ Programs
 71.  Write a python program to interchange first and last elements in a list. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day71.py)
 72.  Use a list comprehension to square each odd number in a list. The list is input by a sequence of comma-separated numbers. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day72.py)
 73.  Write a program that computes the net amount of a bank account based a transaction log from console input. The transaction log format is shown as following: D 100 W 200. D means deposit while W means withdrawal. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day73.py)
-74.  
+74.  write a program to sort the (name, age, height) tuples by ascending order where name is string, age and height are numbers. The tuples are input by console. The sort criteria is: 1: Sort based on name; 2: Then sort based on age; 3: Then sort by score. The priority is that name > age > score. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day74.py)
