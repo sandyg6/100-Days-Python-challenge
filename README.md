@@ -79,3 +79,4 @@ Programs
 75.  Write a program to compute the frequency of the words from the input. The output should output after sorting the key alphanumerically. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day75.py)
 76.  Define a function which can print a dictionary where the keys are numbers between 1 and 20 (both included) and the values are square of keys. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day76.py)
 77.  Define a class named Circle which can be constructed by a radius. The Circle class has a method which can compute the area. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day77.py)
+78.  Define a class named Rectangle which can be constructed by a length and width. The Rectangle class has a method which can compute the area. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day78.py)
