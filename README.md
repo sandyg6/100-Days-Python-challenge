@@ -81,3 +81,4 @@ Programs
 77.  Define a class named Circle which can be constructed by a radius. The Circle class has a method which can compute the area. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day77.py)
 78.  Define a class named Rectangle which can be constructed by a length and width. The Rectangle class has a method which can compute the area. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day78.py)
 79.  Define a class named Shape and its subclass Square. The Square class has an init function which takes a length as argument. Both classes have a area function which can print the area of the shape where Shape's area is 0 by default. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day79.py)
+80.  Write a function to compute 5/0 and use try/except to catch the exceptions. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day80.py)
