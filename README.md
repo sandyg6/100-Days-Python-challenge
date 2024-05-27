@@ -84,3 +84,4 @@ Programs
 80.  Write a function to compute 5/0 and use try/except to catch the exceptions. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day80.py)
 81.  Define a custom exception class which takes a string message as attribute. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day81.py)
 82.  Write a program using list comprehension to print the Fibonacci Sequence in comma separated form. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day82.py)
+83.  Write a binary search function which searches an item in a sorted list. The function should return the index of element to be searched in the list. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day83.py)
