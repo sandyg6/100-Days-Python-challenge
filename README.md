@@ -85,3 +85,4 @@ Programs
 81.  Define a custom exception class which takes a string message as attribute. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day81.py)
 82.  Write a program using list comprehension to print the Fibonacci Sequence in comma separated form. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day82.py)
 83.  Write a binary search function which searches an item in a sorted list. The function should return the index of element to be searched in the list. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day83.py)
+84.  Generate a random float where the value is between 10 and 100 using Python math module. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day84.py)
