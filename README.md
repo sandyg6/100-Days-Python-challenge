@@ -87,3 +87,4 @@ Programs
 83.  Write a binary search function which searches an item in a sorted list. The function should return the index of element to be searched in the list. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day83.py)
 84.  Generate a random float where the value is between 10 and 100 using Python math module. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day84.py)
 85.  Write a program to output a random even number between 0 and 10 inclusive using random module and list comprehension. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day85.py)
+86.  Write a program to shuffle and print the list. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day86.py)
