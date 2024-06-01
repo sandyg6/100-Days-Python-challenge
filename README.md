@@ -89,3 +89,4 @@ Programs
 85.  Write a program to output a random even number between 0 and 10 inclusive using random module and list comprehension. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day85.py)
 86.  Write a program to shuffle and print the list. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day86.py)
 87.  Write a program to generate all sentences where subject is in ["I", "You"] and verb is in ["Play", "Love"] and the object is in ["Hockey","Football"]. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day87.py)
+88.  Write a program to print the list after removing delete even numbers in the list.[(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day88.py)
