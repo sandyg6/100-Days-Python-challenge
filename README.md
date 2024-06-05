@@ -93,3 +93,4 @@ Programs
 89.  Write a program to print the list after removing delete numbers which are divisible by 5 and 7. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day89.py)
 90.  Write a program to print this list after removing all duplicate values with original order reserved. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day90.py)
 91.  Write a program generate a 358 3D array whose each element is 0. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day91.py)
+92.  Write a program to print the list after removing the value 24 in [12,24,35,24,88,120,155]. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day92.py)
