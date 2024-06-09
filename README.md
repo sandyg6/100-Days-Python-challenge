@@ -97,3 +97,4 @@ Programs
 93.  With two given lists, write a program to make a list whose elements are intersection of the above given lists. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day93.py)
 94.  Write a program to print this list after removing all duplicate values with original order reserved. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day94.py)
 95.  Define a class Person and its two child classes: Male and Female. All classes have a method "getGender" which can print "Male" for Male class and "Female" for Female class. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day95.py)
+96.  Write a program which count and print the numbers of each character in a string input. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day96.py)
