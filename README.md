@@ -100,3 +100,4 @@ Programs
 96.  Write a program which count and print the numbers of each character in a string input. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day96.py)
 97.  Write a program which accepts a string from console and print it in reverse order. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day97.py)
 98.  write a program which accepts a string from console and print the characters that have even indexes. [(code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day98.py)
+99.  Write a program which accepts a string from console and print the characters that have even indexes. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day99.py)
