@@ -101,3 +101,4 @@ Programs
 97.  Write a program which accepts a string from console and print it in reverse order. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day97.py)
 98.  write a program which accepts a string from console and print the characters that have even indexes. [(code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day98.py)
 99.  Write a program which accepts a string from console and print the characters that have even indexes. [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day99.py)
+100.  Write a program to solve a classic ancient Chinese puzzle: We count 35 heads and 94 legs among the chickens and rabbits in a farm. How many rabbits and how many chickens do we have? [(Code)](https://github.com/sandyg6/100-Days-Python-coding/blob/main/Day100.py)
